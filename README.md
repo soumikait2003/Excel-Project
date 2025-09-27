@@ -1,12 +1,12 @@
-# 🌸 Ferns & Petals Sales Analytics Dashboard
+# Ferns & Petals Sales Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes **Ferns & Petals (FNP)** sales data to uncover insights into revenue trends, customer spending behavior, product performance, and seasonal sales patterns.  
 The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Charts**, followed by building an **interactive dashboard** for decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Calculate **total revenue** and analyze order-level performance.
 - Identify **top occasions** and **top revenue-generating products**.
 - Measure **average order value** and **customer spending behavior**.
@@ -16,7 +16,7 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Analyzed **1,000+ orders** generating **₹35.2 Lakhs in total revenue**.
 - **Anniversaries & Raksha Bandhan** contributed ~**35% of sales revenue**.
 - Average customer spend was **₹3,520 per order**.
@@ -26,7 +26,7 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Excel Power Query** → Data cleaning & transformation (ETL).  
 - **Excel Power Pivot** → Data modeling & relationships across multiple tables.  
 - **Pivot Tables & Charts** → Interactive analysis and visualizations.  
@@ -34,7 +34,7 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Screenshot](Dashboard pic.png)
 
 ---
