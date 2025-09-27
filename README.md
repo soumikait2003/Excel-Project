@@ -32,10 +32,6 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 - **Pivot Tables & Charts** → Interactive analysis and visualizations.  
 - **Dashboard Design** → Comprehensive visualization of business KPIs.  
 
----
-
-## Dashboard Preview
-![Dashboard Screenshot](Dashboard pic.png)
 
 
 ---
@@ -44,21 +40,3 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 - Delivered a decision-ready dashboard that helps FNP understand **customer spending, seasonal sales peaks, and top-performing categories**.  
 - Enabled management to **prioritize campaigns** around high-revenue occasions and **optimize product promotion strategies**.  
 
----
-
-## Repository Structure
-FNP-Sales-Analytics
-┣ README.md
-┣ Dashboard.xlsx
-┣ Data/
-┃ ┣ customers.csv
-┃ ┣ orders.csv
-┃ ┣ products.csv
-┃ ┗ occasions.csv
-┗ 📸 Dashboard.png
-
----
-
-##  Author
-**Soumik Das**  
-Python • SQL • Excel • Visualization  
