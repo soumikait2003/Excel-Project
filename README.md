@@ -30,7 +30,10 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 - **Excel Power Query** → Data cleaning & transformation (ETL).  
 - **Excel Power Pivot** → Data modeling & relationships across multiple tables.  
 - **Pivot Tables & Charts** → Interactive analysis and visualizations.  
-- **Dashboard Design** → Comprehensive visualization of business KPIs.  
+- **Dashboard Design** → Comprehensive visualization of business KPIs.
+
+- ![Dashboard Screenshot](Dashboard%20pic.png)
+ 
 
 
 
