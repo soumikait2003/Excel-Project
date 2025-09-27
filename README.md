@@ -35,7 +35,8 @@ The analysis was performed using **Excel Power Query, Power Pivot, and Pivot Cha
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot]("Dashboard pic.png")
+![Dashboard Screenshot](Dashboard pic.png)
+
 
 ---
 
